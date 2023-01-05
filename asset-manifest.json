@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/farma-react/static/css/main.073c9b0a.css",
+    "main.js": "/farma-react/static/js/main.d21b77f6.js",
+    "static/js/787.c56f4f05.chunk.js": "/farma-react/static/js/787.c56f4f05.chunk.js",
+    "static/media/logo.svg": "/farma-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/farma-react/index.html",
+    "main.073c9b0a.css.map": "/farma-react/static/css/main.073c9b0a.css.map",
+    "main.d21b77f6.js.map": "/farma-react/static/js/main.d21b77f6.js.map",
+    "787.c56f4f05.chunk.js.map": "/farma-react/static/js/787.c56f4f05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d21b77f6.js"
+  ]
+}
